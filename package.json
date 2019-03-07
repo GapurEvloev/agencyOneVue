@@ -2,7 +2,7 @@
   "name": "agencyone",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "gapur",
+  "author": "GAPUR EVLOEV <g.evloev@itfsystems.ru>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
